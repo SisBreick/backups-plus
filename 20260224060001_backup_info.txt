@@ -1,0 +1,7 @@
+Backup Information
+==================
+Database: DB_CRMBREICKALT
+Date: Tue Feb 24 06:10:53 UTC 2026
+Compressed Size: 95M
+Host: servidor-breick
+Disk Space After Backup: 112G available
